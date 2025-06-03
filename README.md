@@ -1,0 +1,2 @@
+# ACCScriptsGenerater
+Adobe製品のスクリプトを生成するソフトウェアの構築
